@@ -1,4 +1,7 @@
 def main():
+    """
+    Print the Simple Hello World Message
+    """
     print("Hello from Dice Class!")
 
 

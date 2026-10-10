@@ -1,3 +1,6 @@
+"""This is the main module for the Dice Class project."""
+
+
 def main():
     """
     Print the Simple Hello World Message
